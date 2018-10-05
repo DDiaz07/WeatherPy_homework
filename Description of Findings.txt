@@ -1,0 +1,9 @@
+Written discription of three observable trends based on the data.
+
+1.) Tempriture was hire on latitude 20 with in the 100 degrees Ferinhite. However tempretured has the ability to drop as well to the high 50's range.
+
+2.) Humidity for the most part tended to reach 100 and not go past that with exception of one city. 
+
+3.) Wind speed reaches 35 mph after latitude 20.
+
+In conclution cities around latitude 20 seems to have a a nice atmosphere.
